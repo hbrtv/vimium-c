@@ -1,0 +1,11 @@
+{
+	"name": "Vimium C",
+	"@time": "2021/7/12下午7:16:52",
+	"time": 1626088612286,
+	"environment": {
+		"extension": "1.90.2",
+		"platform": "win",
+		"chrome": 91
+	},
+	"searchUrl": "https://www.google.com/search?q=$s Google"
+}
